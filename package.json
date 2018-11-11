@@ -1,0 +1,29 @@
+{
+  "name": "docker-with-node-and-mongo",
+  "version": "1.0.0",
+  "description": "docker with node and mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bijayee-saswata/docker-with-node-and-mongo.git"
+  },
+  "keywords": [
+    "docker",
+    "mongo",
+    "node"
+  ],
+  "author": "bijayee saswata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bijayee-saswata/docker-with-node-and-mongo/issues"
+  },
+  "homepage": "https://github.com/bijayee-saswata/docker-with-node-and-mongo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.11"
+  }
+}
