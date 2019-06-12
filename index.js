@@ -9,7 +9,7 @@ app.use(express.static('./public'));
 var parser = bodyparse.urlencoded({extended: false});
 
 
-mongoose.connect('mongodb://docker:docker1@ds259253.mlab.com:59253/docker')
+mongoose.connect('mongodb://uid:ups@ds259253.mlab.com:59253/docker')
 .then(() => console.log("database connected"))
 .catch(err => console.log(err));
 
