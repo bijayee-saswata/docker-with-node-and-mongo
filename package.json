@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/bijayee-saswata/docker-with-node-and-mongo#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mongodb": "^3.1.9",
     "mongoose": "^5.3.11"
   }
